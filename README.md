@@ -1,3 +1,2 @@
 # my-project
-this is test rebo
-this is created by mohamed
+this is test rebo is created by mohamed
